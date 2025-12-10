@@ -8,7 +8,6 @@
 
 Welcome to the official repository for the **Physical AI & Humanoid Robotics** online textbook. This project is a comprehensive, open-source guide designed to bridge the gap between digital intelligence and physical embodiment.
 
-✨ **[Check out the live website!](https://BismaYousuf.github.io/physical-ai-and-humanoid-robotics/)** ✨
 
 ---
 
