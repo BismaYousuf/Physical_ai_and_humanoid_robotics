@@ -121,4 +121,4 @@ This project is licensed under the MIT License.
 
 Bisma Yousuf - [GitHub](https://github.com/BismaYousuf) - [LinkedIn](https://www.linkedin.com/in/bisma-yousuf-52572b2b4/)
 
-Project Link: [https://github.com/BismaYousuf/physical-ai-and-humanoid-robotics](https://github.com/BismaYousuf/physical-ai-and-humanoid-robotics)
+Project Link: [https://github.com/BismaYousuf/Physical_ai_and_humanoid_robotics/tree/main](https://github.com/BismaYousuf/physical-ai-and-humanoid-robotics)
